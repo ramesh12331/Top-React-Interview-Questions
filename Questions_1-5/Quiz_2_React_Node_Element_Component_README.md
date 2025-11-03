@@ -116,6 +116,24 @@ Answer with `1`, `2`, `3` for the following questions:
 
 ---
 
+
+# ✅ Correct Answers
+
+| Question | Your Answer | ✅ Correct Answer | 🧠 Why? |
+|-----------|--------------|------------------|---------|
+| 1. Which one is IMMUTABLE? | Component ❌ | **Element** ✅ | Components are functions (they can change). Elements are immutable objects. |
+| 2. `<Greeting />` is? | Node ✅ | **Node** ✅ | `<Greeting />` is considered a React Node (which represents a component instance). |
+| 3. `"Hello World"` is? | Element ❌ | **Node** ✅ | A plain string is a React Node, not an element. |
+
+---
+
+### ✅ Correct Response Should Be
+1. **Element**  
+2. **Node**  
+3. **Node**
+
+
+
 ## ✨ Created with ❤️ by Ramesh
 > _Empowering developers to build, learn, and grow._
 
